@@ -1,4 +1,4 @@
-# AB-Testing-Case-For-an-E-commerce-Website
+# AB Testing Case For an E-commerce Website
 
 <p align="center">
   <img src="https://github.com/tanerceyhanli/AB-Testing-Case-For-an-E-commerce-Website/blob/main/readme.jpeg">
