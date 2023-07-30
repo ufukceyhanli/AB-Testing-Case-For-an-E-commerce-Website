@@ -15,3 +15,5 @@ Jupyter Notebook --> [*Here*](https://github.com/tanerceyhanli/AB-Testing-Case-F
 
 Ufuk Taner CEYHANLI <br>
 [*https://ufukceyhanli.com*](https://ufukceyhanli.com)
+
+This is new line
